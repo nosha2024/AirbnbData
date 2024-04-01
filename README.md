@@ -1,1 +1,3 @@
 # AirbnbData
+
+We worked as follows: Imported On the page to get to know the whole body Then we uploaded the second file, the first analysis response, with the name df1, df2, and the link between them is my_df. We showed that the site data contains more than 1000 columns and rows containing titles, values, and everything related to the host We worked as follows from : Delete, sort, calculate, larger than, smaller than, graphs from the highest rating and the cleanest rooms, then data science and colors for the eye, a clear statement, and we worked on [null, false, true] The largest and average accounts, etc. It was an enjoyable experience, and I ask God for success.
